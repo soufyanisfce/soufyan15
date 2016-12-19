@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <h1>Projet git web ISFCE</h1>
         <p>Le lundi 19/12/2016</p>
+        <h2>MODIFICATION</h2>
         <?php
         // put your code here
         ?>
