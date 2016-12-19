@@ -16,5 +16,6 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <p>El Bricus Ajoutus ses modificatus</p>
     </body>
 </html>
